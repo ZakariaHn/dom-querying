@@ -1,5 +1,5 @@
 # dom-querying
 
-## Practesing on using dom-quering
+## Practising on using dom-querying
 
 ![](https://github.com/ZakariaHn/dom-querying/blob/master/img/forREADME.png)
